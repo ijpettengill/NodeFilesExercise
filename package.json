@@ -1,0 +1,19 @@
+{
+  "name": "nodefilesexercise",
+  "version": "1.0.0",
+  "description": "a basic node application",
+  "main": "step1.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijpettengill/NodeFilesExercise.git"
+  },
+  "author": "Issaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijpettengill/NodeFilesExercise/issues"
+  },
+  "homepage": "https://github.com/ijpettengill/NodeFilesExercise#readme"
+}
